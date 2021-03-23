@@ -22,7 +22,7 @@ KW-VIP는 광운대학교에서 진행하는 프로젝트형 강의이다.
 ### 컨트리부터
 
 이 프로젝트의 컨트리부터들이다.
-<a href="https://github.com/RichardLitt/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/clover7kso/KW_VIP/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 
 
 ## License
